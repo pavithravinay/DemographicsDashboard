@@ -1,0 +1,11 @@
+class Container {
+    Constructor()
+    {
+
+    }
+
+    getIterator()
+    {
+
+    }
+}

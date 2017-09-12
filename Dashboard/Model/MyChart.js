@@ -1,0 +1,11 @@
+class MyChart {
+   
+    constructor()
+    {
+       
+    }
+
+    drawChart(){}
+
+
+}
